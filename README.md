@@ -3,7 +3,7 @@
 **AI-Powered Cyber Fusion Center for Smart Banking Security**
 
 Built for **Bank of Maharashtra FINSPARK'26 Hackathon**
-Problem Statement 2: *AI-Driven Correlation of Cybersecurity Telemetry & Transactional Behaviour*
+Problem Statement: *AI-Driven Correlation of Cybersecurity Telemetry & Transactional Behaviour*
 
 ---
 
@@ -124,10 +124,6 @@ See `.env.example`:
 4. Click **Generate Live Attack** on the dashboard to watch the correlation engine detect a
    simulated account-takeover chain in real time
 
-## Screenshots
-
-_Add screenshots here before submission: Landing page, Dashboard, Threat Timeline, World Map,
-Quantum Security, AI Assistant._
 
 ## Future Scope
 
