@@ -1,0 +1,51 @@
+user,account,txn_type,amount,country,device,risk_score,threat_level,status
+Regina Craig,ACC131244,LargeTransfer,535301.09,Vietnam,Unregistered Device,83.0,High,Flagged
+Morgan Wilson,ACC267414,International,935503.05,Russia,Unregistered Device,78.0,High,Flagged
+Laura Pearson,ACC944962,RTGS,690029.75,Nigeria,Unregistered Device,83.0,High,Flagged
+Mary Nguyen,ACC263032,International,502579.74,Russia,Unregistered Device,93.0,Critical,Blocked
+Kristopher Hayes,ACC872246,International,617848.26,UK,Unregistered Device,93.0,Critical,Blocked
+Tammy Foster,ACC850800,International,819431.57,Nigeria,Unregistered Device,93.0,Critical,Blocked
+Heather Brennan,ACC988662,RTGS,922378.44,UAE,Unregistered Device,83.0,High,Flagged
+Maria Stephenson,ACC334053,RTGS,428448.47,USA,Unregistered Device,68.0,High,Flagged
+Kimberly Dean,ACC571029,RTGS,621749.43,Nigeria,Unregistered Device,68.0,High,Flagged
+Audrey Kim,ACC900581,RTGS,703605.78,UK,Unregistered Device,68.0,High,Flagged
+Mary Leblanc,ACC145561,LargeTransfer,472506.86,Nigeria,Unregistered Device,83.0,High,Flagged
+Desiree Rosario,ACC246316,International,812441.51,Vietnam,Unregistered Device,90.0,Critical,Blocked
+Catherine Johnson,ACC198246,LargeTransfer,448979.47,Vietnam,Unregistered Device,68.0,High,Flagged
+John Adams,ACC207175,RTGS,649963.36,Nigeria,Unregistered Device,68.0,High,Flagged
+Carl Green,ACC476417,RTGS,692875.4,USA,Unregistered Device,83.0,High,Flagged
+Johnny Gonzalez,ACC331148,RTGS,539399.34,Vietnam,Unregistered Device,83.0,High,Flagged
+Brian Griffith,ACC671858,International,769489.96,Brazil,Unregistered Device,93.0,Critical,Blocked
+Christopher Matthews,ACC946335,International,201647.71,Nigeria,Unregistered Device,93.0,Critical,Blocked
+Kaitlin Flores,ACC391369,LargeTransfer,822412.91,Brazil,Unregistered Device,83.0,High,Flagged
+Amanda Young,ACC133326,LargeTransfer,610767.94,UAE,Unregistered Device,68.0,High,Flagged
+Elizabeth Johnson,ACC717889,LargeTransfer,726572.04,China,Unregistered Device,78.0,High,Flagged
+Kimberly Guzman,ACC543143,International,872657.84,Russia,Unregistered Device,78.0,High,Flagged
+Shawn Garcia,ACC731262,LargeTransfer,305336.89,Vietnam,Unregistered Device,68.0,High,Flagged
+Erik Alvarez,ACC460663,RTGS,756883.17,Brazil,Unregistered Device,68.0,High,Flagged
+Sheena Porter,ACC452944,LargeTransfer,280221.13,USA,Unregistered Device,68.0,High,Flagged
+Amanda Wolf,ACC809570,RTGS,346941.1,Vietnam,Unregistered Device,83.0,High,Flagged
+Tamara Gardner,ACC126225,International,897662.19,Vietnam,Unregistered Device,93.0,Critical,Blocked
+Zachary Abbott,ACC377370,LargeTransfer,361692.13,UK,Unregistered Device,83.0,High,Flagged
+Valerie Mills,ACC191161,International,737590.94,Brazil,Unregistered Device,93.0,Critical,Blocked
+Denise Morales,ACC895667,International,767862.01,Vietnam,Unregistered Device,93.0,Critical,Blocked
+Tamara Gardner,ACC126225,Merchant Payment,35410.9,Brazil,MacBook Pro,83.0,High,Flagged
+Michael Little,ACC456778,International,97122.61,UAE,iPhone 15 Pro,10.0,Low,Cleared
+Sheena Porter,ACC452944,ATM Withdrawal,11387.45,India,MacBook Pro,68.0,High,Flagged
+Amy Lee,ACC197251,Credit Card,10584.29,India,Samsung Galaxy S24,0.0,Low,Cleared
+Michael Wright,ACC688508,Credit Card,52985.21,Brazil,MacBook Pro,0.0,Low,Cleared
+Laura Pearson,ACC944962,LargeTransfer,355196.91,Vietnam,Windows Laptop,99.0,Critical,Blocked
+Tanya Woods,ACC201414,UPI,36230.96,India,iPad Air,0.0,Low,Cleared
+Heather Brennan,ACC988662,ATM Withdrawal,8533.86,Vietnam,iPad Air,83.0,High,Flagged
+Brian Griffith,ACC671858,Credit Card,17576.65,India,Android Tablet,91.0,Critical,Blocked
+Christopher Conner,ACC325772,International,112234.44,Brazil,Android Tablet,18.0,Low,Cleared
+Christopher Conner,ACC325772,LargeTransfer,571710.16,India,iPad Air,10.0,Low,Cleared
+Kaitlin Flores,ACC391369,Merchant Payment,32127.39,Vietnam,Linux Desktop,91.0,Critical,Blocked
+Tanya Woods,ACC201414,ATM Withdrawal,1606.53,India,iPhone 15 Pro,0.0,Low,Cleared
+Brian Griffith,ACC671858,LargeTransfer,270701.55,USA,Android Tablet,93.0,Critical,Blocked
+Nathan Smith,ACC207473,Credit Card,17849.41,India,iPad Air,0.0,Low,Cleared
+Shawn Garcia,ACC731262,UPI,52108.52,China,iPad Air,68.0,High,Flagged
+Sheena Porter,ACC452944,ATM Withdrawal,6702.29,Brazil,Linux Desktop,68.0,High,Flagged
+Mary Nguyen,ACC263032,UPI,23018.64,Brazil,Linux Desktop,83.0,High,Flagged
+Lori Cook,ACC948749,UPI,15230.2,India,Linux Desktop,0.0,Low,Cleared
+Heather Brennan,ACC988662,Merchant Payment,42336.82,India,Windows Laptop,83.0,High,Flagged

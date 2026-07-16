@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  @apply bg-void-900 text-ink-100 font-body antialiased;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(47,107,255,0.15), transparent),
+    radial-gradient(ellipse 60% 40% at 90% 10%, rgba(139,92,246,0.08), transparent);
+  background-attachment: fixed;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(47,107,255,0.35);
+  border-radius: 8px;
+}
+
+:focus-visible {
+  outline: 2px solid #2F6BFF;
+  outline-offset: 2px;
+}
+
+@layer components {
+  .glass-panel {
+    @apply bg-void-800/60 backdrop-blur-xl border border-white/[0.06] rounded-2xl;
+  }
+  .glass-card {
+    @apply glass-panel transition-all duration-300 hover:border-neon-blue/40 hover:shadow-glow;
+  }
+  .btn-primary {
+    @apply px-6 py-3 rounded-xl bg-gradient-to-r from-neon-blue to-neon-purple text-white font-semibold
+      shadow-glow hover:brightness-110 active:brightness-95 transition-all duration-200;
+  }
+  .btn-ghost {
+    @apply px-6 py-3 rounded-xl border border-white/10 text-ink-100 font-medium
+      hover:border-neon-blue/50 hover:bg-white/[0.03] transition-all duration-200;
+  }
+  .badge {
+    @apply inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-semibold font-mono;
+  }
+  .badge-critical { @apply badge bg-signal-critical/15 text-signal-critical border border-signal-critical/30; }
+  .badge-high { @apply badge bg-signal-high/15 text-signal-high border border-signal-high/30; }
+  .badge-medium { @apply badge bg-signal-medium/15 text-signal-medium border border-signal-medium/30; }
+  .badge-low { @apply badge bg-signal-low/15 text-signal-low border border-signal-low/30; }
+  .section-label {
+    @apply text-xs uppercase tracking-[0.2em] text-neon-cyan/80 font-mono font-semibold;
+  }
+}

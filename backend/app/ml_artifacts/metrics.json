@@ -1,0 +1,12 @@
+{
+  "true_positives": 30,
+  "false_positives": 30,
+  "true_negatives": 220,
+  "false_negatives": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.667,
+  "total_transactions": 280,
+  "attack_scenarios": 30,
+  "model": "IsolationForest (n_estimators=200, contamination=0.15) blended 60/40 with rule engine"
+}

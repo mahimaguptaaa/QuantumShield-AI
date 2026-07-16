@@ -1,0 +1,51 @@
+user,event_type,ip_address,device,country,is_vpn,timestamp
+Ian Garrett,login,194.153.127.213,iPad Air,UK,False,2026-07-14 16:41:24.040280
+Christopher Conner,login,105.130.165.21,iPhone 15 Pro,India,False,2026-07-13 11:56:24.040280
+Scott Cunningham,login,104.230.181.75,Android Tablet,India,False,2026-07-13 14:59:24.040280
+Amanda Wolf,login,204.75.232.218,Android Tablet,China,False,2026-07-11 12:04:24.040280
+Janet Knapp,password_reset,76.209.242.166,Windows Laptop,India,False,2026-07-12 20:40:24.040280
+Stephen Wood,vpn_login,164.247.154.26,Android Tablet,India,True,2026-07-12 21:25:24.040280
+Vincent Johnson,new_device_login,55.162.22.22,MacBook Pro,USA,False,2026-07-11 19:46:24.040280
+Tina Clark,password_reset,208.90.186.141,Linux Desktop,India,False,2026-07-14 05:36:24.040280
+Elizabeth Johnson,admin_action,141.86.17.144,Android Tablet,USA,False,2026-07-15 01:52:24.040280
+Desiree Rosario,login,203.111.250.36,Android Tablet,USA,False,2026-07-11 00:51:24.040280
+Ryan Mcgee,login,167.225.136.72,Samsung Galaxy S24,Brazil,False,2026-07-11 16:18:24.040280
+Steve Wilson,mfa_failure,133.228.182.249,iPhone 15 Pro,UK,False,2026-07-12 08:44:24.040280
+Jeremiah Pennington,login,203.198.107.95,iPhone 15 Pro,India,False,2026-07-14 16:41:24.040280
+Kristopher Hayes,failed_login,132.47.157.196,iPad Air,Brazil,False,2026-07-13 15:15:24.040280
+Audrey Kim,login,176.171.37.134,Android Tablet,Vietnam,False,2026-07-11 07:44:24.040280
+Marco Foster,login,146.105.127.76,iPad Air,India,False,2026-07-13 20:01:24.040280
+Ryan Johnson,password_reset,154.36.11.51,Windows Laptop,India,True,2026-07-13 18:57:24.040280
+Ronald Sullivan,login,214.185.183.48,Samsung Galaxy S24,China,False,2026-07-12 19:52:24.040280
+Ian Garrett,login,204.190.244.8,iPhone 15 Pro,Vietnam,False,2026-07-11 11:13:24.040280
+Jeremiah Pennington,login,212.205.236.66,Samsung Galaxy S24,India,False,2026-07-12 17:50:24.040280
+Tanya Woods,login,79.187.226.110,Linux Desktop,UK,False,2026-07-12 01:38:24.040280
+Tammy Foster,failed_login,156.178.119.67,Samsung Galaxy S24,China,False,2026-07-14 19:26:24.040280
+Jose Evans,login,30.238.214.146,Linux Desktop,China,False,2026-07-10 23:42:24.040280
+Denise Morales,failed_login,26.179.173.71,iPhone 15 Pro,Vietnam,False,2026-07-14 19:38:24.040280
+Janet Knapp,login,214.129.133.126,iPhone 15 Pro,UK,False,2026-07-11 18:12:24.040280
+Denise Morales,login,214.63.7.188,iPad Air,UAE,False,2026-07-11 09:41:24.040280
+Christopher Conner,login,142.38.248.50,Android Tablet,Russia,False,2026-07-11 07:44:24.040280
+Adam Gregory,vpn_login,213.226.186.200,iPhone 15 Pro,China,True,2026-07-11 22:34:24.040280
+Zachary Abbott,mfa_failure,207.214.89.204,MacBook Pro,India,False,2026-07-14 05:54:24.040280
+Elizabeth Johnson,vpn_login,153.22.255.40,Windows Laptop,India,True,2026-07-11 23:43:24.040280
+Lori Cook,login,158.38.37.9,Windows Laptop,India,False,2026-07-11 01:28:24.040280
+Janet Knapp,vpn_login,133.237.181.66,Windows Laptop,India,True,2026-07-10 10:12:24.040280
+Amanda Wolf,failed_login,143.173.59.215,iPhone 15 Pro,Vietnam,False,2026-07-11 22:52:24.040280
+Vincent Johnson,password_reset,213.136.60.231,MacBook Pro,India,False,2026-07-14 07:13:24.040280
+Ryan Mcgee,mfa_failure,174.63.208.91,Android Tablet,India,False,2026-07-13 17:22:24.040280
+Morgan Wilson,login,172.49.225.76,Samsung Galaxy S24,Vietnam,False,2026-07-10 05:24:24.040280
+Jose Evans,password_reset,91.136.148.249,Samsung Galaxy S24,Nigeria,False,2026-07-10 12:45:24.040280
+Erik Alvarez,login,6.165.100.163,Windows Laptop,China,False,2026-07-12 12:36:24.040280
+Suzanne Grant,password_reset,131.63.180.92,Windows Laptop,USA,False,2026-07-13 13:20:24.040280
+Rebecca Cordova,mfa_failure,208.14.248.32,Windows Laptop,India,False,2026-07-11 20:10:24.040280
+Stephen Wood,vpn_login,54.89.179.207,iPhone 15 Pro,Nigeria,True,2026-07-12 05:37:24.040280
+Adam Gregory,mfa_failure,147.27.138.198,Android Tablet,UK,False,2026-07-11 01:13:24.040280
+Morgan Wilson,vpn_login,215.34.240.166,Android Tablet,Russia,True,2026-07-14 10:26:24.040280
+Mary Nguyen,failed_login,167.156.132.112,MacBook Pro,USA,False,2026-07-11 08:39:24.040280
+Adam Gregory,login,37.4.240.24,iPad Air,USA,False,2026-07-11 20:15:24.040280
+Michael Ochoa,login,59.26.60.189,Android Tablet,Vietnam,False,2026-07-12 05:04:24.040280
+Kaitlin Flores,login,146.220.178.138,iPhone 15 Pro,USA,False,2026-07-15 00:06:24.040280
+Tammy Foster,vpn_login,142.160.212.225,Android Tablet,Brazil,True,2026-07-11 01:22:24.040280
+Adam Gregory,new_device_login,198.58.235.42,Android Tablet,India,False,2026-07-10 13:39:24.040280
+Desiree Rosario,login,176.239.248.59,iPad Air,China,False,2026-07-12 02:55:24.040280
